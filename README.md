@@ -55,14 +55,34 @@
 
   <div class="text_Proyectos">
   <div align="left"class=Futoshiki>
-    <h2>Graficador de diagrama de ventt-edward(2025)</h2>
+    <h2>Graficador de diagrama de Ventt-Edward(2025)</h2>
     <img align="right" alt="Img" height="200px" src="https://github.com/HacheP06/HacheP06/blob/main/Multimedia/Graf.PNG" /> 
+    Programa capaz de graficar Diagramas de Ventt-Edward desde 3 conjuntos hasta 6. el programa permite realizar la tabla de conjuntos del mismo, asi como saber si se solapan o no. 
     <br>
     > Repositorio: https://github.com/HacheP06/GraficadorDeDiagramasDeVentt.git
     <br>
     <h3>Programa y lenguaje empleado</h3>
-    <img src="https://img.shields.io/badge/Unity-7226D1?style=for-the-badge&logo=unity&logoSize=100" / >
+    <img src="https://img.shields.io/badge/VisualComunitty-7226D1?style=for-the-badge&logo=Visualcode&logoSize=100" / >
     <img src="https://img.shields.io/badge/Csharp-7226D1?style=for-the-badge&logo=Csharp&logoSize=100" / >
   </div>  
+  </div>
+
+<div align="center" class ="status">
+  <h1>Status</h1>
+  <div align="left">
+    
+    - ♥️Trabajando en una pagina web sobre mis trabajos como programador, artista y editor.
+    
+    - 🌱 Conceptualizando las idea de un juego.
+  </div>
 </div>
 
+<div align="center" class ="status">
+  <h1>Gmail de contacto y redes sociales</h1>
+    <img src="https://img.shields.io/badge/Instagram%3A%20HacheP_06-A58DD9?style=social&logo=Instagram&logoSize=200&color=A58DD9" / >
+    <img src ="https://img.shields.io/badge/X%2FTwitter%3A%20hacheP_06-A58DD9?style=social&logo=X&logoSize=200&color=A58DD9" / >
+   <img src ="https://img.shields.io/badge/Gmail%3A%20hachepache06%40gmail.com-A58DD9?style=social&logo=Gmail&logoSize=200&color=A58DD9" / >
+
+
+
+</div>
