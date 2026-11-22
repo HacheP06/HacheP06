@@ -79,9 +79,12 @@
 
 <div align="center" class ="status">
   <h1>Gmail de contacto y redes sociales</h1>
-    <img src="https://img.shields.io/badge/Instagram%3A%20HacheP_06-A58DD9?style=social&logo=Instagram&logoSize=200&color=A58DD9" / >
-    <img src ="https://img.shields.io/badge/X%2FTwitter%3A%20hacheP_06-A58DD9?style=social&logo=X&logoSize=200&color=A58DD9" / >
-   <img src ="https://img.shields.io/badge/Gmail%3A%20hachepache06%40gmail.com-A58DD9?style=social&logo=Gmail&logoSize=200&color=A58DD9" / >
+    <img src="https://img.shields.io/badge/-0B1324?style=flat-square&logo=X&logoSize=100" / >
+    HacheP_06
+    <img src ="https://img.shields.io/badge/-0B1324?style=flat-square&logo=Instagram&logoSize=100" / >
+      HacheP_0606
+   <img src ="https://img.shields.io/badge/-0B1324?style=flat-square&logo=Gmail&logoSize=100" / >
+       Hachepache06@gmail.com
 
 
 
