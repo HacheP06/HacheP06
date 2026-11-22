@@ -1,4 +1,8 @@
-## Hi there 👋
+# Bienvenido a mi portafolio temporal- 
+
+<img align="right" alt="GIF" height="160px" src="https://github.com/HacheP06/HacheP06/blob/main/Multimedia/Foto.png" />
+
+## 
 
 <!--
 **HacheP06/HacheP06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
