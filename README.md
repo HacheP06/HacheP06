@@ -1,16 +1,13 @@
-<div align="center">
+<div align="center" class="Titulo">
 
-  # Bienvenido a mi portafolio temporal🌱
+  # Bienvenido a mi portafolio🌱
 
 </div>
 
+<div align="left" class="Presentacion"> 
+  <img align="right" alt="Img" height="200px" src="https://github.com/HacheP06/HacheP06/blob/main/Multimedia/Foto.png" />
 
-
-
-<div align="left"> 
-  <img align="left" alt="GIF" height="200px" src="https://github.com/HacheP06/HacheP06/blob/main/Multimedia/Foto.png" />
-  <div align="left">
-    
+ - ☝️Este portafolio es de uso temporal mientras trabajo en uno.
  - 👋Mi nombre es Hamlet Cegarra, en redes me encuentras como HacheP_06.
   
  - ✏️Soy un programador, ilustrador digital y editor(amateur).
@@ -19,22 +16,33 @@
  
  - ⚡Doy el 120% en todo lo que hago.
 
- - 💡Interesado en aprender el uso de nuevas tecnologías. 
+ - 💡Interesado siempre en aprender algo nuevo.
+
 </div>
+
+<div align="center" class="Lenguajes">
+<h1>Lenguajes que manejo</h1>
+<div class="Texto_Lenguaje">
+         <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=cs,cpp,godot,html,css,javascript" />
+        </a>
+      </div>
 </div>
-## 
+<div align="center" class="Programas">
+<h1>Programas que utilizo</h1>
+<div class="text_Programas">
+         <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=godot,unity,visualstudio,vscode" />
+          </a>
+      </div>
+</div>
 
-<!--
-**HacheP06/HacheP06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" class="Proyectos">
+<h1>Proyectos destacados</h1>
+<div class="text_Proyectos">
+  <div class=Futoshiki>
+  <img align="right" alt="Img" height="200px" src="https://github.com/HacheP06/HacheP06/blob/main/Multimedia/Futosh.PNG" />
+  
+  </div>  
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
