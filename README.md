@@ -1,6 +1,9 @@
-# Bienvenido a mi portafolio temporal- 
+<div aling="center">
+##  Bienvenido a mi portafolio temporal- 
+</div>
 
-<img align="right" alt="GIF" height="160px" src="https://github.com/HacheP06/HacheP06/blob/main/Multimedia/Foto.png" />
+
+<img align="left" alt="GIF" height="280px" src="https://github.com/HacheP06/HacheP06/blob/main/Multimedia/Foto.png" />
 
 ## 
 
