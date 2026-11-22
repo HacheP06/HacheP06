@@ -57,7 +57,7 @@
   <div align="left"class=Futoshiki>
     <h2>Graficador de diagrama de Ventt-Edward(2025)</h2>
     <img align="right" alt="Img" height="200px" src="https://github.com/HacheP06/HacheP06/blob/main/Multimedia/Graf.PNG" /> 
-    Programa capaz de graficar Diagramas de Ventt-Edward desde 3 conjuntos hasta 6. el programa permite realizar la tabla de conjuntos del mismo, asi como saber si se solapan o no. 
+    Programa capaz de graficar Diagramas de Ventt-Edward desde 3 conjuntos hasta 6. el programa permite realizar la tabla de conjuntos del mismo, y cualquier operación siguiendo las reglas de la teoría de conjuntos. 
     <br>
     > Repositorio: https://github.com/HacheP06/GraficadorDeDiagramasDeVentt.git
     <br>
