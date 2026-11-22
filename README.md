@@ -14,7 +14,7 @@
 
  - 🤸Soy una persona creativa, apasionada y dedicada a lo que me gusta.
  
- - ⚡Doy el 120% en todo lo que hago.
+ - ⚡Doy el 120% en todo lo que hago y priorizo la calidad en vez de la cantidad.
 
  - 💡Interesado siempre en aprender algo nuevo.
 
@@ -40,9 +40,18 @@
 <div align="center" class="Proyectos">
 <h1>Proyectos destacados</h1>
 <div class="text_Proyectos">
-  <div class=Futoshiki>
-  <img align="right" alt="Img" height="200px" src="https://github.com/HacheP06/HacheP06/blob/main/Multimedia/Futosh.PNG" />
-  
+  <div align="left"class=Futoshiki>
+    <h2>Futoshiji(2025)</h2>
+  <img align="right" alt="Img" height="200px" src="https://github.com/HacheP06/HacheP06/blob/main/Multimedia/Futosh.PNG" /> 
+    Futoshiji es un juego japones muy similar al sudoku, donde sus principales es la cantidad de casillas y las desigualdades que le añaden     mas desafio al juego. Este proyecto es una recreacion didactica del mismo para un mejor entendimiento del motor Unity. 
+    <br>
+  > Repositorio: https://github.com/HacheP06/Futoshiki
+    <br>
+    <h3>Programa y lenguaje empleado</h3>
+    <img src="https://img.shields.io/badge/Unity-7226D1?style=for-the-badge&logo=unity&logoSize=100" / >
+    <img src="https://img.shields.io/badge/Csharp-7226D1?style=for-the-badge&logo=Csharp&logoSize=100" / >
+
+
   </div>  
 </div>
 
