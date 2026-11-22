@@ -46,8 +46,7 @@
     <img align="right" alt="Img" height="200px" src="https://github.com/HacheP06/HacheP06/blob/main/Multimedia/Futosh.PNG" /> 
     Futoshiji es un juego japones muy similar al sudoku, donde sus principales es la cantidad de casillas y las desigualdades que le añaden     mas desafio al juego. Este proyecto es una recreacion didactica del mismo para un mejor entendimiento del motor Unity y del lenguaje C#. 
     <br>
-    > Repositorio: 
-    <img src="https://img.shields.io/badge/Github-A58DD9?style=for-the-badge&logo=Github&logoSize=100&link=https%3A%2F%2Fgithub.com%2FHacheP06%2FFutoshiki" / >
+    > Repositorio: https://github.com/HacheP06/Futoshiki.git
     <br>
     <h3>Programa y lenguaje empleado</h3>
     <img src="https://img.shields.io/badge/Unity-7226D1?style=for-the-badge&logo=unity&logoSize=100" / >
@@ -59,8 +58,7 @@
     <h2>Graficador de diagrama de ventt-edward(2025)</h2>
     <img align="right" alt="Img" height="200px" src="https://github.com/HacheP06/HacheP06/blob/main/Multimedia/Graf.PNG" /> 
     <br>
-    > Repositorio: 
-    <img src="https://img.shields.io/badge/Github-A58DD9?style=for-the-badge&logo=Github&logoSize=100&link=https%3A%2F%2Fgithub.com%2FHacheP06%2FGraficadorDeDiagramasDeVentt.git" / >
+    > Repositorio: https://github.com/HacheP06/GraficadorDeDiagramasDeVentt.git
     <br>
     <h3>Programa y lenguaje empleado</h3>
     <img src="https://img.shields.io/badge/Unity-7226D1?style=for-the-badge&logo=unity&logoSize=100" / >
